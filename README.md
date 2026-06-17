@@ -25,13 +25,9 @@ LuigiBattleBtn_P.pak
 ### Emulator (Sudachi / Ryujinx / Yuzu-based)
 
 1. Right-click the game → **Open Mod Data Location** (opens `.../load/01006D0017F7A000/`).
-2. Create this folder structure inside it:
-   ```
-   ClassicBattleControls/romfs/Vermillion/Content/Paks/~mods/
-   ```
-3. Copy the three `LuigiBattleBtn_P.*` files into that `~mods\` folder.
-4. Right-click the game → **Properties → Add-Ons / Mods** and make sure the mod is **enabled**.
-5. Launch the game.
+2. Copy the folder with the 3 mod files and paste into your mod location
+3. Right-click the game → **Properties → Add-Ons / Mods** and make sure the mod is **enabled**.
+4. Launch the game.
 
 ### Hardware (Atmosphere CFW)
 
