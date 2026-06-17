@@ -58,4 +58,4 @@ No game code is patched; only one Blueprint default value is changed, repacked i
 
 ## Credits
 
-Me.
+Me. Also the Mario & Luigi Brothership Discord for helpful tools plus `Mappings.usmap`
