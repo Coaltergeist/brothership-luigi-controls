@@ -1,4 +1,4 @@
-# Brothership – Classic Battle Controls (Luigi = B)
+# Brothership: Classic Battle Controls (Luigi = B)
 
 Restores the classic *Mario & Luigi* battle control scheme in **Mario & Luigi: Brothership** (Switch).
 
